@@ -1,11 +1,13 @@
 // A variable is a container to store data
 
-// Data Types (Built-in)
+// Most used Data Types
 // Int -> -2,-1,0,1,2,3
 // Float -> Decimal nos -> 1.21, 3.77
 // Char -> a,b,c
 // Double -> 1.218..., 3.456......
 // Boolean -> True(1), False(0)
+
+// Other Data Types -> short int, unsigned short int, unsigned int, long int, unsigned long int, long long int, unsigned long long int, signed char, unsigned char, float, double, long double, wchar_t
 
 // Types of Variables
 // Local Variables -> Declared inside a Function and only that function can use it
