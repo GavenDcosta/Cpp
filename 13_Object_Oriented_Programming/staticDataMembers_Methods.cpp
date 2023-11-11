@@ -4,7 +4,7 @@ using namespace std;
 class Employee{
     int id;
     // int count;   // this is static variable, so we have to declare it outside and the use static keyword
-    static int count;  // static variables  // will maintain the same value inside all the objects in the class // the modifications done to this will appear in all
+    static int count;  // static variables  // will maintain the same value inside all the objects in the class // the modifications done to this will appear in all 
     public:
        void setData(void){
          cout<<"Enter the id"<<endl;
