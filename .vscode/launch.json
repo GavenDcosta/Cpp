@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/gaven/OneDrive/Desktop/CPP/12_Function_Overloading",
-      "program": "c:/Users/gaven/OneDrive/Desktop/CPP/12_Function_Overloading/build/Debug/outDebug",
+      "cwd": "c:/Users/gaven/OneDrive/Desktop/CPP/14_Friend_Functions",
+      "program": "c:/Users/gaven/OneDrive/Desktop/CPP/14_Friend_Functions/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
