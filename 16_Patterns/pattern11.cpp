@@ -14,6 +14,7 @@ int main(){
             cout<<endl;
             start = start-2;
         }
+        
         i++;
     }
     return 0;
